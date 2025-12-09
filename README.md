@@ -13,15 +13,13 @@ _Javascript, Typescript,  Next.js, React, Vite, Tanstack Query, GraphQL, Jest, R
 
 _Golang, Node.js, Express, Sequelize, GraphQL, REST API, JWT, MongoDB, MySQL, PostgreSQL, etc._
 
-_Docker, CI/CD, Github Actions, Nginx, Jenkins, Vercel, Digital Ocean, etc._
+_Docker, CI/CD, Github Actions, Nginx, Vercel, Digital Ocean, etc._
 
 <p align="left">
   <!-- Frontend -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
   <img src="https://vitejs.dev/logo.svg" alt="vite" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/>
   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
