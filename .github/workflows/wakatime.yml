@@ -20,7 +20,7 @@ jobs:
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: false
           LANG_COUNT: 10
-          CODE_LANG: typescript
+          CODE_LANG: golang
           TIME_RANGE: all_time
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics
           TARGET_BRANCH: main
