@@ -6,6 +6,9 @@ on:
   schedule:
     - cron: "0 18,0 * * *" 
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     name: WakaReadme Dev Metrics Update
