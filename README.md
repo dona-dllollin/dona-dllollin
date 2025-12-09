@@ -1,16 +1,68 @@
-## Hi there 👋
+## Hi 👋, I'm Moh. Dona Dlollin!
 
-<!--
-**dona-dllollin/dona-dllollin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/-donadlollin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danny-cahyo/)
+[![Gmail](https://img.shields.io/badge/-donadlollin@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dannydwicahyono@gmail.com)
+[![Instagram](https://img.shields.io/badge/-danny_cahyo-ff69b4?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/danny_cahyo/)
+[![Tiktok](https://img.shields.io/badge/-dannydwic-black?style=flat&logo=Tiktok&logoColor=white)](https://www.tiktok.com/@dannydwic)
+[![LeetCode](https://img.shields.io/badge/-danny_cahyo-yellow?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/danny_cahyo/)
+![Visitor](https://komarev.com/ghpvc/?username=dannycahyo&label=Visitor&color=2bbc8a)
 
-Here are some ideas to get you started:
+Danny is a passionate Software Engineer who bridges the gap between mathematics and philosophy in programming, with a keen interest in functional programming paradigms while exploring others to broaden his problem-solving approaches. He is currently committed to enhancing his skills in data structures and algorithms for optimized coding solutions. Beyond his professional endeavors, Danny mentors emerging engineers in the Probolinggo tech community, shares his knowledge through social media, and continuously expands his expertise through reading.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 &nbsp;Technologies & Tools
+
+_Javascript, Typescript, ReasonML, React, Next.js, Remix, React Native, Gatsby, Svelte, Vite, Webpack, Xstate, React Query, GraphQL, Jest, React Testing Libary, MSW, HTML 5, CSS, Styled Component, etc._
+
+_Node.js, Java, Express, SpringBoot, Prisma, Sequelize, GraphQL, Apollo Server, REST API, JWT, MongoDB, MySQL, PostgreSQL, etc._
+
+_Docker, CI/CD, Github Actions, Nginx, Jenkins, Vercel, Digital Ocean, etc._
+
+<p align="left">
+  <!-- Frontend -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/>
+  <img src="https://vitejs.dev/logo.svg" alt="vite" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/>
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  
+  <!-- Backend -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="golang" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  
+  <!-- DevOps -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/>
+</p>
+
+<!--START_SECTION:wakatime-->
+
+```typescript
+From: 13 March 2023 - To: 08 December 2025
+
+Total Time: 2,415 hrs 12 mins
+
+TypeScript                 1,632 hrs 5 mins████████████████▓░░░░░░░░   67.11 %
+JavaScript                 188 hrs 58 mins ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
+Java                       169 hrs 9 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 %
+JSON                       108 hrs 3 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
+Markdown                   105 hrs 2 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
+YAML                       56 hrs 3 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
+Docker                     30 hrs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+Bash                       29 hrs 43 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+HTML                       22 hrs 50 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+Other                      16 hrs 40 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+```
+
+<!--END_SECTION:wakatime-->
+
+<sub>Credit: Danny Dwi Cahyono, last edit on - 5 December 2024</sub>
