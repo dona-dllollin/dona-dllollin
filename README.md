@@ -1,11 +1,9 @@
 ## Hi 👋, I'm Moh. Dona Dlollin!
 
 [![Linkedin](https://img.shields.io/badge/-donadlollin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dona-dlollin)
-[![Gmail](https://img.shields.io/badge/-donadlollin@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dannydwicahyono@gmail.com)
+[![Gmail](https://img.shields.io/badge/-donadlollin@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:donadlollin@gmail.com)
 [![LeetCode](https://img.shields.io/badge/-donadlollin-yellow?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/u/dona-dlollin/)
-![Visitor](https://komarev.com/ghpvc/?username=dannycahyo&label=Visitor&color=2bbc8a)
 
-Dona is a passionate Software Engineer who bridges the gap between mathematics and philosophy in programming, with a keen interest in functional programming paradigms while exploring others to broaden his problem-solving approaches. He is currently committed to enhancing his skills in data structures and algorithms for optimized coding solutions. Beyond his professional endeavors, Danny mentors emerging engineers in the Probolinggo tech community, shares his knowledge through social media, and continuously expands his expertise through reading.
 
 ## 🛠 &nbsp;Technologies & Tools
 
